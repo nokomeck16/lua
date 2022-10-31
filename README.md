@@ -33,13 +33,13 @@
     * 源暎エムゴv2 Black
 * line_chart.exo
     * 源暎エムゴv2 Bold
-    * コーポレート・ロゴ ver2
+    * コーポレート・ロゴ ver3 Bold
 * long_shadow.exo
     * 源暎ラテミン v2
 * progress.exa
-    * コーポレート・ロゴ ver2
+    * コーポレート・ロゴ ver3 Bold
 * switch.exo
-    * コーポレート・ロゴ ver2
+    * コーポレート・ロゴ ver3 Medium
 * synth.exo
     * 源暎エムゴv2 Medium
 * tank_telop.exo
