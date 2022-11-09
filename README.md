@@ -49,16 +49,24 @@
 
 ---
 
-| .exo / .exa       | font                         |
-| -                 | -                            |
-| auto_telop.exo    | BIZ UDゴシック                |
-| calender.exo      | 源暎ラテミン v2               |
-| dummy_base.exo    | 源暎エムゴv2 Black            |
-| line_chart.exo    | 源暎エムゴv2 Bold             |
-| ^                 | コーポレート・ロゴ ver3 Bold   |
-| long_shadow.exo   | 源暎ラテミン v2               |
-| progress.exa      | コーポレート・ロゴ ver3 Bold   |
-| switch.exo        | コーポレート・ロゴ ver3 Medium |
-| synth.exo         | 源暎エムゴv2 Medium           |
-| tank_telop.exo    | 源暎エムゴv2 Black            |
-| triple_shadow.exo | BIZ UDPゴシック               |
+* auto_telop.exo
+  * BIZ UDゴシック
+* calender.exo
+  * 源暎ラテミン v2
+* dummy_base.exo
+  * 源暎エムゴv2 Black
+* line_chart.exo
+  * 源暎エムゴv2 Bold
+  * コーポレート・ロゴ ver3 Bold
+* long_shadow.exo
+  * 源暎ラテミン v2
+* progress.exa
+  * コーポレート・ロゴ ver3 Bold
+* switch.exo
+  * コーポレート・ロゴ ver3 Medium
+* synth.exo
+  * 源暎エムゴv2 Medium
+* tank_telop.exo
+  * 源暎エムゴv2 Black
+* triple_shadow.exo
+  * BIZ UDPゴシック
