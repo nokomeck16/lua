@@ -3,12 +3,14 @@ width=1920
 height=1080
 rate=24
 scale=1
-length=6
+length=1
 audio_rate=48000
 audio_ch=2
+alpha=1
+name=calender.exo
 [0]
 start=1
-end=6
+end=1
 layer=1
 overlay=1
 camera=0
@@ -45,7 +47,7 @@ Z=0.0
 blend=0
 [1]
 start=1
-end=6
+end=1
 layer=2
 overlay=1
 camera=0
@@ -82,7 +84,7 @@ Z=0.0
 blend=0
 [2]
 start=1
-end=6
+end=1
 layer=3
 overlay=1
 camera=0
@@ -105,7 +107,7 @@ Z=0.0
 blend=0
 [3]
 start=1
-end=6
+end=1
 layer=4
 overlay=1
 camera=0
@@ -128,7 +130,7 @@ Z=0.0
 blend=0
 [4]
 start=1
-end=6
+end=1
 layer=5
 overlay=1
 camera=0
@@ -164,7 +166,7 @@ Z=0.0
 blend=0
 [5]
 start=1
-end=6
+end=1
 layer=6
 overlay=1
 camera=0
